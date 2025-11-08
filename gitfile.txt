@@ -1,3 +1,8 @@
 this is local change
+<<<<<<< Updated upstream
 this is local changes
 this rebase change
+=======
+bcawbc;iqwci
+kudvukqwvbsdlui
+>>>>>>> Stashed changes
